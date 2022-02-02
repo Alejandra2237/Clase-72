@@ -84,14 +84,14 @@ dist
 
 # Archivos Gatsby
 .cache/
-# Comente en la línea pública si tu proyecto utiliza Gatsby y *not* Next.js
+# Comenta en la línea pública si tu proyecto utiliza Gatsby y *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
 # vuepress build output
 .vuepress/dist
 
-# Directorio Serverless s
+# Directorio Serverless 
 .serverless/
 
 # cache FuseBox 
