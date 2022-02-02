@@ -1,2 +1,2 @@
-# e-library-c73-boiler-plate
-added handle transaction and eligibility function
+# Biblioteca digitañ-c73-boiler-plate
+Operación de manejo y función de elegibilidad añadidas
